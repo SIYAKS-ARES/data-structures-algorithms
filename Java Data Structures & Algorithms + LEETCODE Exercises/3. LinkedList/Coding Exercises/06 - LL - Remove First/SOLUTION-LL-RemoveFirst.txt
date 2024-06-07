@@ -10,7 +10,7 @@ public class Main {
 
         LinkedList myLinkedList = new LinkedList(2);
         myLinkedList.append(1);
-       
+
         // (2) Items - Returns 2 Node
         System.out.println(myLinkedList.removeFirst().value);
         // (1) Item - Returns 1 Node
@@ -36,8 +36,8 @@ public class Main {
 
 
 // THIS CODE GOES IN YOUR LINKEDLIST CLASS:
-// ---------------------------------------- 
-   
+// ----------------------------------------
+
 package datastructures.linkedlist;
 
 
