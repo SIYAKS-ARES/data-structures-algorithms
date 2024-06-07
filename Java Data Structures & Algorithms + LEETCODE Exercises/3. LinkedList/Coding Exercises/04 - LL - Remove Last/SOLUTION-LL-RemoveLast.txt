@@ -17,8 +17,8 @@ public class Main {
         System.out.println(myLinkedList.removeLast().value);
         // (0) Items - Returns null
         System.out.println(myLinkedList.removeLast());
-        
-        
+
+
     	/*
         	EXPECTED OUTPUT:
         	----------------
@@ -37,8 +37,8 @@ public class Main {
 
 
 // THIS CODE GOES IN YOUR LINKEDLIST CLASS:
-// ---------------------------------------- 
-   
+// ----------------------------------------
+
 package datastructures.linkedlist;
 
 
