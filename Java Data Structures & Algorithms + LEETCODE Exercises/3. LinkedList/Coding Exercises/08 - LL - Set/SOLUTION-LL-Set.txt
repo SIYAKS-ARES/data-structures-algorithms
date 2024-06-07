@@ -21,7 +21,7 @@ public class Main {
         System.out.println("\nLinked List after set():");
         myLinkedList.printList();
 
-        
+
         /*
             EXPECTED OUTPUT:
             ----------------
@@ -30,7 +30,7 @@ public class Main {
             1
             2
             3
-            
+
             Linked List after set():
             0
             1
@@ -48,8 +48,8 @@ public class Main {
 
 
 // THIS CODE GOES IN YOUR LINKEDLIST CLASS:
-// ---------------------------------------- 
-   
+// ----------------------------------------
+
 package datastructures.linkedlist;
 
 
