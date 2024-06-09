@@ -6,7 +6,7 @@ public class main_class {
 		String ad,soyad;
 		int numara,not;
 		ogrenci ilk=null;
-		
+
 		Scanner k= new Scanner(System.in);
 		System.out.println("Ad");
 		ad= k.nextLine();
@@ -18,7 +18,7 @@ public class main_class {
 		not=k.nextInt();
 	    root=new ogrenci(ad,soyad,numara,not);
 		tail=root;
-		
+
 		for(int i=0;i<9;i++){
 			System.out.println("Ad");
 			ad= k.next();
@@ -38,5 +38,5 @@ public class main_class {
 			temp=temp.next;
 		}
 	}
-		
+
 }

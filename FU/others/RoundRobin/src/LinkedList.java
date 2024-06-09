@@ -9,7 +9,7 @@ public class LinkedList {
 			next=null;
 		}
 	}
-	
+
 	Node findLast() {//O(n)
 		Node n= head;
 		while(n.next!=null) {
@@ -17,16 +17,15 @@ public class LinkedList {
 		}
 		return n;
 	}
-	
-	
+
 	void add(int k) {
-		Node last; 
+		Node last;
 		Node n = new Node (k);
 		if(head!=null) {
 			last=findLast();//each time you call the "add" method, findLast method will be called and O(n) time will be wasted
-	      last.next=n;
-	      last = n;
-          last.next = null;
+	    	last.next=n;
+	    	last = n;
+        	last.next = null;
 		}
 		else {
 			

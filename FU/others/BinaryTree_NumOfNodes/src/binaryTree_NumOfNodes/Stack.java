@@ -3,15 +3,19 @@ package binaryTree_NumOfNodes;
 
 
 public class Stack<E> {
-	class Node{
+	class Node<E> {
 		E e;
-		Node next;
-		Node(E e){
-			this.e=e;
-			next=null;
+		Node<E> next;
+
+		class Node<E> {
+			E e;
+			Node<E> next;
+
+			Node(E e) {
+				this.e = e;
+				next = null;
+			}
 		}
-		
-		
 	}
 	
 	Node head;
@@ -30,13 +34,12 @@ public class Stack<E> {
 	}
 	
 	public void push(E e) {
-		Node n= new Node(e);
-		if(head==null) {
-			head=n;
-		}
-		else {
-			n.next=head;
-			head=n;
+		Stack<E>.Node<E> n = new Stack<E>.Node<E>(e);
+		if (head == null) {
+			head = n;
+		} else {
+			n.next = head;
+			head = n;
 		}
 		size++;
 	}
@@ -55,7 +58,10 @@ public class Stack<E> {
 		return new Node(e);
 	}*/
 	public E peek() {
-		return head.e;
+		if (!isEmpty()) {
+			return head.e;
+		}
+		return null;
 	}
 
 }
