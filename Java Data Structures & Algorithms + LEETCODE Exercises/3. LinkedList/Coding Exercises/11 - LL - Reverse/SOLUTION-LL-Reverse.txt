@@ -48,8 +48,8 @@ public class Main {
 
 
 // THIS CODE GOES IN YOUR LINKEDLIST CLASS:
-// ---------------------------------------- 
-   
+// ----------------------------------------
+
 package datastructures.linkedlist;
 
 
