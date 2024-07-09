@@ -24,13 +24,13 @@ public class binarysearch {
     public static void searchAndPrint(int[] arr, int target) {
         int left = 0; // Arama aralığının sol sınırı
         int right = arr.length - 1; // Arama aralığının sağ sınırı
-        boolean found = false; // Hedefin bulunup bulunmadığını kontrol eden bayrak
+        boolean found = false; // Hedefin bulunup bulunmadığını kontrol eden değişken
         // Binary search işlemini gerçekleştir
         while (left <= right) {
             int mid = left + (right - left) / 2; // Orta indeksi hesapla
             if (arr[mid] == target) { // Orta elemanın hedef olup olmadığını kontrol et
                 System.out.println("Target " + target + " found at index " + mid); // Bulunan hedefin indeksini yazdır
-                found = true; // Hedef bulundu olarak bayrağı ayarla
+                found = true; // Hedef bulundu olarak değişkeni ayarla
                 break; // Hedef bulunduğu için döngüden çık
             } else if (arr[mid] < target) { // Hedef orta elemandan büyükse
                 left = mid + 1; // Sol sınırı mid + 1 yap
