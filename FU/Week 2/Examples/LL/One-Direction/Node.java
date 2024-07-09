@@ -1,6 +1,6 @@
-public class Node {
+public class NodeB {
     public int veri;
-    public Node kuyruk;
+    public NodeB kuyruk;
 
     public void yazdir() {
         System.out.print(" " + veri);
