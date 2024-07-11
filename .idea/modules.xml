@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FU/others/AVL_T/AVL_T.iml" filepath="$PROJECT_DIR$/FU/others/AVL_T/AVL_T.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/ArraytoBST/ArraytoBST.iml" filepath="$PROJECT_DIR$/FU/others/ArraytoBST/ArraytoBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/BFS&amp;DFS_Implementation/BFS&amp;DFS_Implementation.iml" filepath="$PROJECT_DIR$/FU/others/BFS&amp;DFS_Implementation/BFS&amp;DFS_Implementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/BST_Insert_Delete/BST_Insert_Delete.iml" filepath="$PROJECT_DIR$/FU/others/BST_Insert_Delete/BST_Insert_Delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Balanced/Balanced.iml" filepath="$PROJECT_DIR$/FU/others/Balanced/Balanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/FU/others/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/BinaryTree_NumOfNodes/BinaryTree_NumOfNodes.iml" filepath="$PROJECT_DIR$/FU/others/BinaryTree_NumOfNodes/BinaryTree_NumOfNodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Binary_Search_Tree/Binary_Search_Tree.iml" filepath="$PROJECT_DIR$/FU/others/Binary_Search_Tree/Binary_Search_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Circularly_LinkedList/Circularly_LinkedList.iml" filepath="$PROJECT_DIR$/FU/others/Circularly_LinkedList/Circularly_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/DoubleLinkedListIsPalindrome/DoubleLinkedListIsPalindrome.iml" filepath="$PROJECT_DIR$/FU/others/DoubleLinkedListIsPalindrome/DoubleLinkedListIsPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/Week 2/Examples/Examples.iml" filepath="$PROJECT_DIR$/FU/Week 2/Examples/Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/FlattenedIterator/FlattenedIterator.iml" filepath="$PROJECT_DIR$/FU/others/FlattenedIterator/FlattenedIterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/GraphColoring/GraphColoring.iml" filepath="$PROJECT_DIR$/FU/others/GraphColoring/GraphColoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Heap/Heap.iml" filepath="$PROJECT_DIR$/FU/others/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/InOrder_PreOrder_PostOrder/InOrder_PreOrder_PostOrder.iml" filepath="$PROJECT_DIR$/FU/others/InOrder_PreOrder_PostOrder/InOrder_PreOrder_PostOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/InfixPosfixPrefix/InfixPosfixPrefix.iml" filepath="$PROJECT_DIR$/FU/others/InfixPosfixPrefix/InfixPosfixPrefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/Week 2/Examples/LL/LL.iml" filepath="$PROJECT_DIR$/FU/Week 2/Examples/LL/LL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/LinkedL_RmDuplicates/LinkedL_RmDuplicates.iml" filepath="$PROJECT_DIR$/FU/others/LinkedL_RmDuplicates/LinkedL_RmDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/LinkedListAddRemove/LinkedListAddRemove.iml" filepath="$PROJECT_DIR$/FU/others/LinkedListAddRemove/LinkedListAddRemove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/LinkedList_1/LinkedList_1.iml" filepath="$PROJECT_DIR$/FU/others/LinkedList_1/LinkedList_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/LinkedList_2/LinkedList_2.iml" filepath="$PROJECT_DIR$/FU/others/LinkedList_2/LinkedList_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/LinkedList_Char/LinkedList_Char.iml" filepath="$PROJECT_DIR$/FU/others/LinkedList_Char/LinkedList_Char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Maze_Stack/Maze_Stack.iml" filepath="$PROJECT_DIR$/FU/others/Maze_Stack/Maze_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Odevler/Odevler.iml" filepath="$PROJECT_DIR$/FU/others/Odevler/Odevler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/FU/others/PriorityQueue/PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Queue/Queue.iml" filepath="$PROJECT_DIR$/FU/others/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/RoundRobin/RoundRobin.iml" filepath="$PROJECT_DIR$/FU/others/RoundRobin/RoundRobin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Searching_Algorithms/Searching_Algorithms.iml" filepath="$PROJECT_DIR$/FU/others/Searching_Algorithms/Searching_Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Sorting_Algorithms/Sorting_Algorithms.iml" filepath="$PROJECT_DIR$/FU/others/Sorting_Algorithms/Sorting_Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/StackImplemetation/StackImplemetation.iml" filepath="$PROJECT_DIR$/FU/others/StackImplemetation/StackImplemetation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/StackSort/StackSort.iml" filepath="$PROJECT_DIR$/FU/others/StackSort/StackSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/StackWithLinkedList/StackWithLinkedList.iml" filepath="$PROJECT_DIR$/FU/others/StackWithLinkedList/StackWithLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Stack_DecimalToBinary/Stack_DecimalToBinary.iml" filepath="$PROJECT_DIR$/FU/others/Stack_DecimalToBinary/Stack_DecimalToBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/TreeQueue/TreeQueue.iml" filepath="$PROJECT_DIR$/FU/others/TreeQueue/TreeQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/Tree_Longest_Path/Tree_Longest_Path.iml" filepath="$PROJECT_DIR$/FU/others/Tree_Longest_Path/Tree_Longest_Path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/Week 1/Week 1.iml" filepath="$PROJECT_DIR$/FU/Week 1/Week 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/Week 3-4/Week 3-4.iml" filepath="$PROJECT_DIR$/FU/Week 3-4/Week 3-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/Week 7-8/Week 7-8.iml" filepath="$PROJECT_DIR$/FU/Week 7-8/Week 7-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/Week 9-10/Week 9-10.iml" filepath="$PROJECT_DIR$/FU/Week 9-10/Week 9-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/binaryTreeSwap/binaryTreeSwap.iml" filepath="$PROJECT_DIR$/FU/others/binaryTreeSwap/binaryTreeSwap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structures-algorithms.iml" filepath="$PROJECT_DIR$/data-structures-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/doubly_LinkedList/doubly_LinkedList.iml" filepath="$PROJECT_DIR$/FU/others/doubly_LinkedList/doubly_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/infixPostfixPrefix_HW/infixPostfixPrefix_HW.iml" filepath="$PROJECT_DIR$/FU/others/infixPostfixPrefix_HW/infixPostfixPrefix_HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/intersectionPointOfLinkedLists/intersectionPointOfLinkedLists.iml" filepath="$PROJECT_DIR$/FU/others/intersectionPointOfLinkedLists/intersectionPointOfLinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/palindromeLinkedList/palindromeLinkedList.iml" filepath="$PROJECT_DIR$/FU/others/palindromeLinkedList/palindromeLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/polynome_LinkedList/polynome_LinkedList.iml" filepath="$PROJECT_DIR$/FU/others/polynome_LinkedList/polynome_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/recursivePalindromeLinkedList/recursivePalindromeLinkedList.iml" filepath="$PROJECT_DIR$/FU/others/recursivePalindromeLinkedList/recursivePalindromeLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/reference/reference.iml" filepath="$PROJECT_DIR$/FU/others/reference/reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FU/others/stack/stack.iml" filepath="$PROJECT_DIR$/FU/others/stack/stack.iml" />
+    </modules>
+  </component>
+</project>

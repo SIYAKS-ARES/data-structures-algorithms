@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Odev1_Cevap" isTestSource="false" packagePrefix="Odev1_Cevabi" />
+      <sourceFolder url="file://$MODULE_DIR$/Odev2_Cevap" isTestSource="false" packagePrefix="Odev2_Cevabi_Stack_Yigit" />
+      <sourceFolder url="file://$MODULE_DIR$/Odev3_Cevap" isTestSource="false" packagePrefix="Odev3_Cevabi_Stack_Yigit" />
+      <sourceFolder url="file://$MODULE_DIR$/Odev4_Cevap" isTestSource="false" packagePrefix="Odev4_Cevabi_RoundRobin" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
