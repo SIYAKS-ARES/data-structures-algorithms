@@ -1,9 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "src",
-        "FU/others/stack/src",
-        "FU/others/BFS&DFS_Implementation/src",
-        "Java Data Structures & Algorithms + LEETCODE Exercises/3. LinkedList/Coding Exercises"
+        "FU"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
