@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class MergeAndSortArrays {
     /* Javadoc kullanımı
-     * Verilen 2 diziyi birleştirip n. terime kadar küçükten büyüğe n. terimden sonra büyükten küçüğe sıralama
+     *  Verilen 2 diziyi birleştirip n. terime kadar küçükten büyüğe n. terimden sonra büyükten küçüğe sıralama
      */
 
     public static void main(String[] args) {
